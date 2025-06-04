@@ -1,7 +1,7 @@
 # Month Counts
 
 -   January: 0
--   February: 0
+-   February: 2
 -   March: 0
 -   April: 0
 -   May: 0
