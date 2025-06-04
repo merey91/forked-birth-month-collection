@@ -10,5 +10,5 @@
 -   August: 0
 -   September: 0
 -   October: 0
--   November: 0
+-   November: 1
 -   December: 0
