@@ -7,7 +7,7 @@
 -   May: 0
 -   June: 0
 -   July: 0
--   August: 0
+-   August: 1
 -   September: 0
 -   October: 0
 -   November: 0
